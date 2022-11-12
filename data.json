@@ -1,0 +1,390 @@
+[
+    [
+        {
+            "hour": 0,
+            "temp": "+8",
+            "obl": "90",
+            "davl": "749",
+            "vlazhn": "71",
+            "windvel": "3"
+        },
+        {
+            "hour": 1,
+            "temp": "+9",
+            "obl": "90",
+            "davl": "749",
+            "vlazhn": "69",
+            "windvel": "4"
+        },
+        {
+            "hour": 2,
+            "temp": "+9",
+            "obl": "90",
+            "davl": "748",
+            "vlazhn": "68",
+            "windvel": "4"
+        },
+        {
+            "hour": 3,
+            "temp": "+9",
+            "obl": "90",
+            "davl": "748",
+            "vlazhn": "67",
+            "windvel": "4"
+        },
+        {
+            "hour": 4,
+            "temp": "+9",
+            "obl": "90",
+            "davl": "747",
+            "vlazhn": "68",
+            "windvel": "5"
+        },
+        {
+            "hour": 5,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "747",
+            "vlazhn": "69",
+            "windvel": "3"
+        },
+        {
+            "hour": 6,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "747",
+            "vlazhn": "70",
+            "windvel": "3"
+        },
+        {
+            "hour": 7,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "747",
+            "vlazhn": "70",
+            "windvel": "3"
+        },
+        {
+            "hour": 8,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "746",
+            "vlazhn": "71",
+            "windvel": "3"
+        },
+        {
+            "hour": 9,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "746",
+            "vlazhn": "71",
+            "windvel": "3"
+        },
+        {
+            "hour": 10,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "746",
+            "vlazhn": "71",
+            "windvel": "3"
+        },
+        {
+            "hour": 11,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "745",
+            "vlazhn": "72",
+            "windvel": "3"
+        },
+        {
+            "hour": 12,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "744",
+            "vlazhn": "72",
+            "windvel": "3"
+        },
+        {
+            "hour": 13,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "743",
+            "vlazhn": "73",
+            "windvel": "4"
+        },
+        {
+            "hour": 14,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "743",
+            "vlazhn": "73",
+            "windvel": "4"
+        },
+        {
+            "hour": 15,
+            "temp": "+10",
+            "obl": "100",
+            "davl": "742",
+            "vlazhn": "73",
+            "windvel": "5"
+        },
+        {
+            "hour": 16,
+            "temp": "+10",
+            "obl": "100",
+            "davl": "741",
+            "vlazhn": "73",
+            "windvel": "5"
+        },
+        {
+            "hour": 17,
+            "temp": "+10",
+            "obl": "100",
+            "davl": "741",
+            "vlazhn": "72",
+            "windvel": "5"
+        },
+        {
+            "hour": 18,
+            "temp": "+10",
+            "obl": "100",
+            "davl": "741",
+            "vlazhn": "72",
+            "windvel": "5"
+        },
+        {
+            "hour": 19,
+            "temp": "+10",
+            "obl": "91",
+            "davl": "741",
+            "vlazhn": "70",
+            "windvel": "5"
+        },
+        {
+            "hour": 20,
+            "temp": "+10",
+            "obl": "78",
+            "davl": "741",
+            "vlazhn": "68",
+            "windvel": "5"
+        },
+        {
+            "hour": 21,
+            "temp": "+10",
+            "obl": "69",
+            "davl": "741",
+            "vlazhn": "65",
+            "windvel": "5"
+        },
+        {
+            "hour": 22,
+            "temp": "+10",
+            "obl": "68",
+            "davl": "742",
+            "vlazhn": "63",
+            "windvel": "5"
+        },
+        {
+            "hour": 23,
+            "temp": "+10",
+            "obl": "72",
+            "davl": "743",
+            "vlazhn": "61",
+            "windvel": "5"
+        }
+    ],
+    [
+        {
+            "hour": 0,
+            "temp": "+8",
+            "obl": "90",
+            "davl": "749",
+            "vlazhn": "71",
+            "windvel": "3"
+        },
+        {
+            "hour": 1,
+            "temp": "+9",
+            "obl": "90",
+            "davl": "749",
+            "vlazhn": "69",
+            "windvel": "4"
+        },
+        {
+            "hour": 2,
+            "temp": "+9",
+            "obl": "90",
+            "davl": "748",
+            "vlazhn": "68",
+            "windvel": "4"
+        },
+        {
+            "hour": 3,
+            "temp": "+9",
+            "obl": "90",
+            "davl": "748",
+            "vlazhn": "67",
+            "windvel": "4"
+        },
+        {
+            "hour": 4,
+            "temp": "+9",
+            "obl": "90",
+            "davl": "747",
+            "vlazhn": "68",
+            "windvel": "5"
+        },
+        {
+            "hour": 5,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "747",
+            "vlazhn": "69",
+            "windvel": "3"
+        },
+        {
+            "hour": 6,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "747",
+            "vlazhn": "70",
+            "windvel": "3"
+        },
+        {
+            "hour": 7,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "747",
+            "vlazhn": "70",
+            "windvel": "3"
+        },
+        {
+            "hour": 8,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "746",
+            "vlazhn": "71",
+            "windvel": "3"
+        },
+        {
+            "hour": 9,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "746",
+            "vlazhn": "71",
+            "windvel": "3"
+        },
+        {
+            "hour": 10,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "746",
+            "vlazhn": "71",
+            "windvel": "3"
+        },
+        {
+            "hour": 11,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "745",
+            "vlazhn": "72",
+            "windvel": "3"
+        },
+        {
+            "hour": 12,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "744",
+            "vlazhn": "72",
+            "windvel": "3"
+        },
+        {
+            "hour": 13,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "743",
+            "vlazhn": "73",
+            "windvel": "4"
+        },
+        {
+            "hour": 14,
+            "temp": "+9",
+            "obl": "100",
+            "davl": "743",
+            "vlazhn": "73",
+            "windvel": "4"
+        },
+        {
+            "hour": 15,
+            "temp": "+10",
+            "obl": "100",
+            "davl": "742",
+            "vlazhn": "73",
+            "windvel": "5"
+        },
+        {
+            "hour": 16,
+            "temp": "+10",
+            "obl": "100",
+            "davl": "741",
+            "vlazhn": "73",
+            "windvel": "5"
+        },
+        {
+            "hour": 17,
+            "temp": "+10",
+            "obl": "100",
+            "davl": "741",
+            "vlazhn": "72",
+            "windvel": "5"
+        },
+        {
+            "hour": 18,
+            "temp": "+10",
+            "obl": "100",
+            "davl": "741",
+            "vlazhn": "72",
+            "windvel": "5"
+        },
+        {
+            "hour": 19,
+            "temp": "+10",
+            "obl": "91",
+            "davl": "741",
+            "vlazhn": "70",
+            "windvel": "5"
+        },
+        {
+            "hour": 20,
+            "temp": "+10",
+            "obl": "78",
+            "davl": "741",
+            "vlazhn": "68",
+            "windvel": "5"
+        },
+        {
+            "hour": 21,
+            "temp": "+10",
+            "obl": "69",
+            "davl": "741",
+            "vlazhn": "65",
+            "windvel": "5"
+        },
+        {
+            "hour": 22,
+            "temp": "+10",
+            "obl": "68",
+            "davl": "742",
+            "vlazhn": "63",
+            "windvel": "5"
+        },
+        {
+            "hour": 23,
+            "temp": "+10",
+            "obl": "72",
+            "davl": "743",
+            "vlazhn": "61",
+            "windvel": "5"
+        }
+    ]
+]
