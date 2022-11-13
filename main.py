@@ -32,12 +32,12 @@ def weather_check():
         data = json.load(open('data.json'))
     except:
         data = []
-    data.append({str(datetime.now()):final})
+    data.append({str(datetime.now())[:-16]: final})
     with open('data.json', 'w', ) as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
 
 
-schedule.every().day.at("17:22").do(weather_check)
+schedule.every().day.at("13:25").do(weather_check)
 
 while True:
     schedule.run_pending()
