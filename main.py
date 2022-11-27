@@ -4,7 +4,6 @@ import schedule
 import time
 import json
 from datetime import datetime
-import graphcreate
 
 
 url = "https://www.meteoservice.ru/weather/hourly/lefortovo"
@@ -35,10 +34,9 @@ def weather_check():
     data.append({str(datetime.now())[:-16]: final})
     with open('data.json', 'w', ) as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
-    graphcreate.gdraw()
 
 
-schedule.every().day.at("12:01").do(weather_check)
+schedule.every().day.at("17:33").do(weather_check)
 
 while True:
     schedule.run_pending()
