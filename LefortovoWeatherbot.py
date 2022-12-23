@@ -25,7 +25,7 @@ def getWeather(message):
 
 @bot.message_handler(commands=['help'])
 def help(message):
-    bot.send_message(message.chat.id,'<b>/getWeather</b> - погода на конкретную дату (/getWeather ГГГГ-ММ-ДД', parse_mode='html')
+    bot.send_message(message.chat.id,'<b>/getWeather</b> - погода на конкретную дату \n (/getWeather ГГГГ-ММ-ДД)', parse_mode='html')
 
 
 bot.polling(none_stop=True)
